@@ -55,7 +55,7 @@ python TKinter_Demo_v2.py
 
 ## 🧪 功能介紹
 
-v1 版本（TKinter_Demo_v1.py）
+### v1 版本（TKinter_Demo_v1.py）
 
 功能一： 問 GPT 模型問題
 
@@ -64,7 +64,7 @@ v1 版本（TKinter_Demo_v1.py）
 功能三： 查詢資料庫內容後，結合新輸入再次詢問 GPT
 
 
-v2 版本（TKinter_Demo_v2.py）
+### v2 版本（TKinter_Demo_v2.py）
 
 功能一： 問 GPT 模型問題
 
