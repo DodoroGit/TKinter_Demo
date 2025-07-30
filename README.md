@@ -56,6 +56,7 @@ python TKinter_Demo_v2.py
 ## 🧪 功能介紹
 
 v1 版本（TKinter_Demo_v1.py）
+
 功能一： 問 GPT 模型問題
 
 功能二： 將輸入資料寫入 PostgreSQL
@@ -64,6 +65,7 @@ v1 版本（TKinter_Demo_v1.py）
 
 
 v2 版本（TKinter_Demo_v2.py）
+
 功能一： 問 GPT 模型問題
 
 功能二： 載入 prompt.txt 文字檔作為參考資訊，並回答問題
