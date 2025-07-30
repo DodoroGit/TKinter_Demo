@@ -76,3 +76,11 @@ v1 使用 PostgreSQL，需先啟動本地資料庫並建立 gui 表。
 v2 使用本地檔案 prompt.txt 作為語境輸入，不需資料庫。
 
 兩版本皆支援 GPT 多執行緒呼叫，避免主執行緒阻塞。
+
+## 🛠 編譯為 EXE（可選）
+
+```
+pip install pyinstaller
+pyinstaller --onefile --noconsole TKinter_Demo_v2.py
+```
+
